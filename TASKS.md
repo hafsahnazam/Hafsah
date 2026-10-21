@@ -1,19 +1,23 @@
 # Tasks
-_Last prioritized: 2026-10-20 (Tue)_
+_Last prioritized: 2026-10-21 (Wed)_
 
 Rule: everything done by Fri 2026-10-23. No work over the weekend or at home.
 
 ## Now
-- [ ] Tatabahasa: check and score APT 1 answers (score 27, needed for Wed release + Fri selection)
+- [ ] Tatabahasa: Week 1 data, step 1: triage Claude analysis of 4.8k rows, group flagged rows by error type, split fixing work (score 28, delivery due Thu 2026-10-22 EOD)
 
 ## Next
-- [ ] ScholarHub: send YTLF the engineer's questions: inbox sync, GoodGrants file list (migrate or scholars upload, e.g. IC), schema gaps (score 24, engineer blocked)
-- [ ] Tatabahasa: release APT 1 scores + answers (score 25, due Wed 2026-10-21)
+- [ ] Tatabahasa: release APT 1 scores + answers (score 25, due Wed 2026-10-21) — confirm APT 1 scoring done
+- [ ] Tatabahasa: Week 1 data, step 2: fix flagged rows, bulk by error type (delegate part) (due Thu 2026-10-22)
+- [ ] Tatabahasa: Week 1 data, step 3: check the ~200 rows with no Claude analysis (due Thu 2026-10-22)
 - [ ] Tatabahasa: close Pilot 3 + Week 2 in OmniDot (score 25, due Wed 2026-10-21 midnight)
-- [ ] Tatabahasa: performance review: error patterns, categories, email per person by accuracy (score 23, due Thu 2026-10-22)
+- [ ] ScholarHub: send YTLF the engineer's questions: inbox sync, GoodGrants file list (migrate or scholars upload, e.g. IC), schema gaps (score 24, engineer blocked)
+- [ ] Tatabahasa: Week 1 data, step 4: feedback to model team on their rule analysis vs our alignment + sources (due Thu 2026-10-22)
+- [ ] Tatabahasa: Week 1 data, step 5: final consistency check, deliver 5k rows to model team (due Thu 2026-10-22 EOD)
+- [ ] Tatabahasa: performance review: reuse Week 1 error types, email per person by accuracy (score 23, due Thu 2026-10-22)
 - [ ] Tatabahasa: check assessments, select + onboard Pilot 4.0, 40 tasks, closes Mon (score 22, due Fri 2026-10-23)
-- [ ] Tatabahasa: APT 2 form in Anno Dobby, release with performance review (score 20, due Fri 2026-10-23)
-- [ ] Tatabahasa: QA Pilot 2.0 un-QAed samples with Claude findings, fixed daily quota (score 18, part of 4k QA)
+- [ ] Tatabahasa: APT 2 form in Anno Dobby, build Fri morning, release with performance review (score 20, due Fri 2026-10-23)
+- [ ] Tatabahasa: QA Pilot 2.0 un-QAed samples — paused this week if it overlaps Week 1 data (score 18, part of 4k QA)
 - [ ] Tatabahasa: grey-area tracker, set up columns now, fill during QA (score 16)
 - [ ] Tatabahasa: offboard non-selected people, batch with Fri selection emails (score 15)
 
