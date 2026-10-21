@@ -7,7 +7,6 @@ Rule: everything done by Fri 2026-10-23. No work over the weekend or at home.
 - [ ] Tatabahasa: Week 1 data, step 1: triage Claude analysis of 4.8k rows, group flagged rows by error type, split fixing work (score 28, delivery due Thu 2026-10-22 EOD)
 
 ## Next
-- [ ] Tatabahasa: release APT 1 scores + answers (score 25, due Wed 2026-10-21) — confirm APT 1 scoring done
 - [ ] Tatabahasa: Week 1 data, step 2: fix flagged rows, bulk by error type (delegate part) (due Thu 2026-10-22)
 - [ ] Tatabahasa: Week 1 data, step 3: check the ~200 rows with no Claude analysis (due Thu 2026-10-22)
 - [ ] Tatabahasa: close Pilot 3 + Week 2 in OmniDot (score 25, due Wed 2026-10-21 midnight)
@@ -41,4 +40,6 @@ Rule: everything done by Fri 2026-10-23. No work over the weekend or at home.
 - Daily: 15-min status check (morning), 1–1.5 h QA block
 
 ## Done
+- [x] Tatabahasa: score APT 1 answers (2026-10-21)
+- [x] Tatabahasa: release APT 1 scores + answers (2026-10-21)
 - [x] Weekly rhythm drafted (2026-10-20)
