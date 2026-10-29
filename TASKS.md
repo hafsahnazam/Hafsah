@@ -1,35 +1,36 @@
 # Tasks
-_Last prioritized: 2026-10-22 (Thu)_
+_Last prioritized: 2026-10-29 (Thu)_
 
-Rule: everything done by Fri 2026-10-23. No work over the weekend or at home.
+Rule: no work over the weekend or at home.
 
 ## Now
-- [ ] Stop for today (Thu 6.48pm). Analysis arrives tonight; open it Fri morning.
+- [ ] Tatabahasa: ask engineer if QA agent verdicts are pushed to OmniDot (score 28, QA2 blocked, 2 min)
 
-## Next (Fri 2026-10-23)
-- [ ] Tatabahasa: Week 1 data, step 1: sort rerun Claude analysis of 4.8k rows by error type — feeds fixes, APT 2 and performance review (score 28)
-- [ ] Tatabahasa: Week 1 data, step 2: fix flagged rows, bulk by error type (delegate part) (due Fri 2026-10-23 EOD)
-- [ ] Tatabahasa: Week 1 data, step 3: check the ~200 rows with no Claude analysis (due Fri 2026-10-23 EOD)
-- [ ] Tatabahasa: check assessments, select + onboard Pilot 4.0, 40 tasks, closes Mon (score 22, due Fri 2026-10-23)
-- [ ] Tatabahasa: offboard non-selected people, batch with Fri selection emails (score 15)
-- [ ] Tatabahasa: performance review emails, using error patterns from analysis (accuracy + top 2 errors) (score 23, release Fri 2026-10-23)
-- [ ] Tatabahasa: APT 2 form in Anno Dobby, questions from error patterns, release with performance review (score 20, Fri 2026-10-23)
-- [ ] Tatabahasa: Week 1 data, step 5: final consistency check, deliver 5k rows to model team (due Fri 2026-10-23 EOD, agreed with model team)
-- [ ] Tatabahasa: grey-area tracker, set up columns, fill while fixing Week 1 rows (score 16)
-- [ ] Tatabahasa: QA Pilot 2.0 un-QAed samples — paused this week if it overlaps Week 1 data (score 18, part of 4k QA)
+## Next
+- [ ] Tatabahasa: send Week 2 + Pilot 3 data to Claude QA (score 27, feeds QA agent -> QA2)
+- [ ] Tatabahasa: progress count: weeks/tasks completed vs left, future weeks plan (score 21, feeds Revelio update + multi-turn budget)
+- [ ] Revelio: weekly update, use progress count (score 19-21, confirm due day)
+- [ ] ScholarHub: data cleaning, step 1: list unclear headers + your decision (keep/rename/drop), email YTLF "proceeding unless you object by <date>" (score 20)
+- [ ] ScholarHub: data cleaning, step 2: apply decisions, remove unneeded columns, keep a change log (after step 1)
 
 ## Quick wins
 - [ ] ScholarHub: report bug/comment: add "Accommodation" to dropdown
 - [ ] ScholarHub: report bug/comment: add filter to Request section
 
 ## Waiting on others
-- [ ] Tatabahasa: engineer rerun of Claude analysis on 4.8k rows (new data) — running, ETA tonight Thu 2026-10-22
-- [ ] ScholarHub: YTLF reply to engineer's questions — follow up Fri 2026-10-23 if no reply, pass answers to engineer
+- [ ] ScholarHub: YTLF reply to engineer's questions + headers — no reply yet, proceeding with own decisions
 
 ## Scheduled
-- [ ] Tatabahasa: Week 1 feedback to model team on their rule analysis vs our alignment + sources — Mon 2026-10-26
-- [ ] Tatabahasa: decide multi-turn annotation cost per line — Mon 2026-10-26
-- [ ] Tatabahasa: QA the rest of the 4k samples — next week, daily quota
+- [ ] Multi-turn: budget plan (cost per line, platform, recruitment, quality/QA), start in ~3 weeks — first chunk Mon 2026-11-02, draft by Wed 2026-11-04
+- [ ] Claude skills: put Tatabahasa skill in GitHub as source of truth, QA agent fetches latest — Fri 2026-10-30 (Claude can build most of it)
+- [ ] Tatabahasa: Week 1 feedback to model team on their rule analysis vs our alignment + sources — confirm if done/rescheduled
+- [ ] Tatabahasa: QA the rest of the 4k samples — daily quota
+
+## Confirm status (from last week)
+- [ ] Tatabahasa: Week 1 5k rows delivered to model team (was due Fri 2026-10-23)
+- [ ] Tatabahasa: Pilot 4.0 select + onboard, offboard non-selected
+- [ ] Tatabahasa: performance review + APT 2 released
+- [ ] Tatabahasa: grey-area tracker set up
 
 ## Ongoing
 - [ ] Tatabahasa: 15-min daily check: annotation, QA and reporting phases on plan
