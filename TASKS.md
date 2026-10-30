@@ -1,16 +1,17 @@
 # Tasks
-_Last prioritized: 2026-10-29 (Thu)_
+_Last prioritized: 2026-10-30 (Fri)_
+
+Note: Tatabahasa ops progress now tracked in Notion via the "claude ops tatabahasa" skill. This file = personal priority list.
 
 Rule: no work over the weekend or at home.
 
 ## Now
-- [ ] Tatabahasa: ask engineer if QA agent verdicts are pushed to OmniDot (score 28, QA2 blocked, 2 min)
+- [ ] Tatabahasa: spot-check Claude QA verdicts on Week 2 + Pilot 3 (all fails + ~20 random passes), note Claude accuracy (score 27, before QA2 relies on it)
 
 ## Next
-- [ ] Tatabahasa: send Week 2 + Pilot 3 data to Claude QA (score 27, feeds QA agent -> QA2)
-- [ ] Tatabahasa: progress count: weeks/tasks completed vs left, future weeks plan (score 21, feeds Revelio update + multi-turn budget)
-- [ ] Revelio: weekly update, use progress count (score 19-21, confirm due day)
-- [ ] ScholarHub: data cleaning, step 1: list unclear headers + your decision (keep/rename/drop), email YTLF "proceeding unless you object by <date>" (score 20)
+- [ ] Tatabahasa: confirm engineer pushed QA agent verdicts to OmniDot (QA2 blocked) — status?
+- [ ] Multi-turn: 20 lines from model team — confirm what's needed + deadline; time yourself on 3–5 lines for budget
+- [ ] ScholarHub: data cleaning, step 1: list unclear headers + your decision (keep/rename/drop), email YTLF "proceeding unless you object by Tue 2026-11-03" — send today (score 20)
 - [ ] ScholarHub: data cleaning, step 2: apply decisions, remove unneeded columns, keep a change log (after step 1)
 
 ## Quick wins
@@ -21,8 +22,8 @@ Rule: no work over the weekend or at home.
 - [ ] ScholarHub: YTLF reply to engineer's questions + headers — no reply yet, proceeding with own decisions
 
 ## Scheduled
-- [ ] Multi-turn: budget plan (cost per line, platform, recruitment, quality/QA), start in ~3 weeks — first chunk Mon 2026-11-02, draft by Wed 2026-11-04
-- [ ] Claude skills: put Tatabahasa skill in GitHub as source of truth, QA agent fetches latest — Fri 2026-10-30 (Claude can build most of it)
+- [ ] Multi-turn: budget plan (cost per line from 20-line timing, platform, recruitment, quality/QA), start in ~3 weeks — first chunk Mon 2026-11-02, draft by Wed 2026-11-04
+- [ ] Claude skills: GitHub sync so QA agent fetches latest Tatabahasa skill — still needed now ops skill is in Notion? confirm
 - [ ] Tatabahasa: Week 1 feedback to model team on their rule analysis vs our alignment + sources — confirm if done/rescheduled
 - [ ] Tatabahasa: QA the rest of the 4k samples — daily quota
 
@@ -44,6 +45,9 @@ Rule: no work over the weekend or at home.
 - Daily: 15-min status check (morning), 1–1.5 h QA block
 
 ## Done
+- [x] Tatabahasa: sent Week 2 + Pilot 3 data to Claude QA (2026-10-29)
+- [x] Tatabahasa: set up "claude ops tatabahasa" skill, progress tracked in Notion (2026-10-29)
+- [x] Revelio: weekly update (2026-10-29)
 - [x] Tatabahasa: told model team Week 1 5k delivery moves to Fri EOD (2026-10-22)
 - [x] Tatabahasa: closed Pilot 3 + Week 2 in OmniDot, annotators moved to Week 3 (2026-10-22)
 - [x] Tatabahasa: checked + delivered 270 multi-turn annotations to model team (2026-10-22)
